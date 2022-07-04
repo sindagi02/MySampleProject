@@ -1,12 +1,11 @@
 package pack1.Test;
 
-public class myClass 
+public class myClasss2 
 {
 
 	public static void main(String[] args) 
 	{
-		// comments
-
+		System.out.println("Testing...");
 	}
 
 }
